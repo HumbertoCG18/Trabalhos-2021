@@ -26,7 +26,7 @@ $resultado = mysqli_query( $conn , $sql);
                     echo '</a>';
                     $tabCategoria++;                
                 }
-               }
+               }    
             ?>
             <br><br>
         </section>
